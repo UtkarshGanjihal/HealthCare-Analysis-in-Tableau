@@ -6,4 +6,4 @@ Healthcare Data.csv : The Dataset used for this project. It is a CSV file contai
 Tableau_Health_Project.twbx : The Tableau file containg the work done on the data.
 
 # Dashboard
-![Screenshot of the Dashboard](Screenshot 2024-11-19 160237.png)
+
